@@ -1,10 +1,11 @@
 #include <stdio.h>
-int main(void);
-/** main function is void
+/**
+ * main - Entry point of the program
  *
- * return is 0
+ * Return: always 0
  */
+int main(void)
 {
-print("with proper grammar, but the outcome is a piece of art,"\n)
-return : (0)
+printf("with proper grammar, but the outcome is a piece of art,\n");
+return (0);
 }
