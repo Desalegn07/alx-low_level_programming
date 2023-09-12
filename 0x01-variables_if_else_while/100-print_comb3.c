@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * main -  Prints  combinations of two-digit numbers.
+ * main - Prints combinations of two-digit numbers.
  * Return: Always (0)
  */
 int main(void)
