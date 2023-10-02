@@ -3,7 +3,7 @@
 #include <limits.h>
 #include <float.h>
 
-int main(void)
+int main(int argc char *argv[])
 
 {
 printf("Size of char: %zu byte(s)\n", sizeof(char));
